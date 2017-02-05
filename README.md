@@ -1,3 +1,5 @@
+** _this is a "convenience fork" to play with and to easily include for me as a submodule. 
+Most likely, you should use the original repository._ **
 QML Box2D plugin
 ----------------
 
